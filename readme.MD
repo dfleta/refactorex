@@ -1,6 +1,8 @@
 # Examen refactorización
 
-Refactoriza el código Java proporcionado sin cambiar su comportamiento, es decir, de modo que siga pasando los casos test proporcionados e intenta encontrar el defecto que produce que falle el último de los casos test. 
+Refactoriza el código Java proporcionado sin cambiar su comportamiento, es decir, de modo que siga pasando los casos test proporcionados e intenta encontrar el defecto que produce que falle el último de los casos test.
+
+La autoría del código a refactorizar es de mi estimado exalumno de FP dual [@OriOrihuela](https://github.com/OriOrihuela) disponible en su repo [Java/JavaExercises/kataBowlingGame](https://github.com/OriOrihuela/Java/tree/master/JavaExercises/kataBowlingGame) como solución al kata Bowling Game.
 
 La lógica de la aplicación es la que se explica en el epígrafe II.
 
